@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ariel Turner
-- 👀 I’m interested in writing maintainable and scalable code
+- 👋 Hi, I’m Ariel Turner.
+- 👀 I’m interested in writing maintainable and scalable code that gets the job done quickly enough.
 - 🌱 I’m always learning how to do that better!
 - 📫 arieltrnr@gmail.com
 
